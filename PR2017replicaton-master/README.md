@@ -2,6 +2,8 @@
 
 Clone or download this repository to your computer and open the `.Rmd` files in Rstudio.
 
+Google collab link: https://colab.research.google.com/drive/1SH-Bv5HdbDejDyRgd9Fuc12Kv2hqyymH#scrollTo=vqHOFwc78oRN
+
 ## Main Analysis Template R Markdown:
 
 * [`analysis_template.Rmd`](https://github.com/areyesq89/PR2017replicaton/blob/master/analysis_template.Rmd) : R markdown template which each team will use to create a fully reproducible analysis with the goal of assessing and interpreting the replicability of two pharmacogenomic experiments. This document will contain all of the text and code of their analyses, which are quided by a series of questions. The tools and concepts needed to answer the questions are explored in the tutorials.
